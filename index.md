@@ -4,7 +4,7 @@
 
 ### Dashboard
 
-[Bikes & accessories sales in France](/sample_page)
+[Sales of bikes & accessories in France](/sample_page)
 <img src="images/githubvelos.png?raw=true"/>
 
 ---
