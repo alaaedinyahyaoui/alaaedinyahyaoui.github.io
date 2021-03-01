@@ -4,7 +4,7 @@
 
 ### Dashboard
 
-[Project 1 Title](/sample_page)
+[Bikes & accessories sales in France](/sample_page)
 <img src="images/githubvelos.png?raw=true"/>
 
 ---
