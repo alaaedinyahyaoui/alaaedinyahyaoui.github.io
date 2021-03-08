@@ -26,9 +26,9 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-### Data analysis 
+### Awards
 
-[Project 1 Title](/sample_page)
+[Alstom business intelligence solution](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
