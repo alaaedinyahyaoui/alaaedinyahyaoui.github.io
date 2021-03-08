@@ -5,7 +5,7 @@
 ### Dashboard
 
 [Sales of bikes & accessories in France](https://public.tableau.com/views/BikesalesinFrance/Dashboard1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
-<img src="images/githubvelos.png?raw=true"/>
+<img src="images/githubvelo.png?raw=true"/>
 
 ---
 
@@ -15,7 +15,7 @@
 ### Awards
 
 [Alstom business intelligence solution](/sample_page)
-<img src="images/alstom.jpg?raw=true"/>
+<img src="images/alsto.jpg?raw=true"/>
 
 
 
