@@ -9,7 +9,7 @@
 
 ---
 [Alstom business intelligence solution award](/pdf/sample_presentation.pdf)
-<img src="images/alstom.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -29,7 +29,7 @@
 ### Awards
 
 [Alstom business intelligence solution](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/alstom.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
