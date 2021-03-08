@@ -1,13 +1,13 @@
 title: Alaaedin Yahyaoui  # your name (or website title) here
 logo: "/images/alaaedin.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- "HI! I'M ALAAEDIN"
+ "      HI! I'M ALAAEDIN"
   <br><br>
    Analyzing and visualizing data to make better and informed business decisions. 
   <br><br>
    Alaaedin believes in open data and open source softwares experience with R and SQl databases.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/example/">View My CV</a>
   <br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
