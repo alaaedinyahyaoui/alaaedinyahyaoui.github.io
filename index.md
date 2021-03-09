@@ -14,7 +14,7 @@
 
 ### Awards
 
-[Alstom business intelligence solution](/sample_page)
+[Alstom business intelligence solution](alaaedinyahyaoui.github.io)
 <img src="images/alstom.jpg?raw=true"/>
 
 
